@@ -9,7 +9,7 @@
 
 
 
-> Plataforma web que ofrece un servicio de gestión de estacionamientos diseñado para optimizar las tareas del personal administrativo y permitir a los clientes consultar disponibilidad y tarifas en tiempo real
+> Planeta Estacionamiento es una aplicación web diseñada para digitalizar la gestión de un estacionamiento. Permite que el personal administrativo controle las operaciones diarias y que los clientes consulten información en tiempo real sobre disponibilidad, tarifas y servicios
 
 ## Características Principales
 
